@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+<TITLE>RASPBERRY RIPPLE</TITLE>
+</HEAD>
+<BODY>
+<div style="text-align:center;">
+<image src="C:\Users\hp\Pictures\Screenshot 2024-03-29 204322.png">
+</div>
+<font color="Brown">
+<center><b><h1>RASPBERRY RIPPLE</h1></b></center></font>
+<center><p><h3><font color="Magenta">Particularly beloved across the pond (it's the 8th most favorite flavor there), Raspberry Ripple is a refreshing ice cream flavor that occurs when raspberry syrup is injected into vanilla ice cream to create flavorful swirls.
+</font></h3></p></center>
+</BODY>
+</HTML>
